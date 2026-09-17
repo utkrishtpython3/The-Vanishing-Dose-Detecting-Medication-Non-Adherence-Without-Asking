@@ -1,0 +1,6 @@
+{
+  "name": "Medication Adherence Engine",
+  "description": "Synthetic RWE data generation engine simulating latent medication adherence dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
